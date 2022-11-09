@@ -1,0 +1,64 @@
+{
+  "competition_data": [
+    {
+      "id": 2,
+      "challenge_name": "children robotics bootcamp",
+      "details": "Learn how to create robots",
+      "status": "upcoming",
+      "level": "easy",
+      "img": "https://images.unsplash.com/photo-1563207153-f403bf289096?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cm9ib3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-10T01:11",
+      "end_date": "2022-11-11T01:11"
+    },
+    {
+      "id": 3,
+      "challenge_name": "rocket testing",
+      "details": "Test reusable rockets that change the Aerospace industry",
+      "status": "upcoming",
+      "level": "hard",
+      "img": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3BhY2V4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-11T01:11",
+      "end_date": "2022-11-12T01:30"
+    },
+    {
+      "id": 4,
+      "challenge_name": "cloud computing",
+      "details": "Cloud computing is the future of computing get on hands on experience on it",
+      "status": "active",
+      "level": "medium",
+      "img": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGNsb3VkJTIwY29tcHV0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-08T01:11",
+      "end_date": "2022-11-12T01:30"
+    },
+    {
+      "id": 5,
+      "challenge_name": "fsd testing",
+      "details": "Test Fully self driving cars and gain knowledge about their superior computer vision",
+      "status": "active",
+      "level": "easy",
+      "img": "https://images.unsplash.com/photo-1585011650347-c59dbef5a823?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dGVzbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-08T01:11",
+      "end_date": "2022-11-12T02:30"
+    },
+    {
+      "id": 584,
+      "challenge_name": "new challenge",
+      "details": "aqwerruzdfdfdsd",
+      "status": "upcoming",
+      "level": "hard",
+      "img": "https://images.unsplash.com/photo-1667422380246-3bed910ffae1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDU2fENEd3V3WEpBYkV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-15T05:06",
+      "end_date": "2022-11-22T04:06"
+    },
+    {
+      "id": 890,
+      "challenge_name": "testing challenge",
+      "details": "Testing the new build ",
+      "status": "upcoming",
+      "level": "medium",
+      "img": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8VGVzbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "start_date": "2022-11-18T10:58",
+      "end_date": "2021-11-22T12:33"
+    }
+  ]
+}
